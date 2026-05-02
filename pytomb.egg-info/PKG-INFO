@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: pytomb
+Version: 0.1.0
+Summary: Local encrypted browser vault backed by loop images, LUKS, and LVM
+Requires-Python: >=3.10
